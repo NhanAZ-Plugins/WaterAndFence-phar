@@ -4,9 +4,6 @@ PocketMine-MP server source and PHAR archive; this is not a plugin.
 
 [![Discord](https://img.shields.io/discord/986553214889517088?label=Discord&logo=discord&logoColor=white&color=5865F2)](https://discord.gg/j2X83ujT6c)
 
-## Overview
-
-This repository preserves historical or supporting source material. It is not a current Axolotl-PM plugin release.
 
 ## Archive contents
 
